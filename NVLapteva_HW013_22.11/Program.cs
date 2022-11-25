@@ -22,4 +22,5 @@ void PrintArray(int[] array)
 }
 
 RandomArray(array);
+
 PrintArray(array);
